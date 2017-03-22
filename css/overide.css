@@ -1,0 +1,20 @@
+body{
+	background:#76C88F !important}
+	
+.box_with_title{   background: url("../images/title.png") repeat-x scroll 0 0 #B3B5B3; !important}	
+
+#header_top-menu {
+    background: #21B23D !important
+}
+
+.z-menu a {
+    border-right: 1px solid #76C88F !important;
+    font-weight: normal !important;
+}
+
+a.faq_links{
+	display:block;
+	padding-left:15px;
+	padding: 6px;
+	color:black;
+} 

@@ -1,0 +1,20 @@
+html {
+    overflow: auto !important;
+/*	overflow-y: visible;
+	overflow-x: hidden;*/
+}
+
+body {
+    overflow: auto !important;
+}
+#container{
+	overflow:visible !important;
+	overflow-y: visible  !important;
+	}
+#search_box{
+	width:222px !important;
+}
+#header_bottom{
+height:25px !important}
+
+#mainmenu{height:25px !important;}	
