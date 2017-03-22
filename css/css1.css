@@ -1,6 +1,6 @@
+/*changes to styling of the CSS file */
+
 @import url("buttons.css");
-
-
 
 img, div { behavior: url(fix_iepngfix.htc)}
 
@@ -14,10 +14,7 @@ body{
 	background: #76C88F;
 	color: #333333;
 
-
-
 }
-
 
 
 #my_outer_container{
@@ -27,7 +24,6 @@ body{
 }
 
 
-
 #header{
 	width: 990px;
 	min-height: 160px;
@@ -35,7 +31,6 @@ body{
 	background: #fff;
 
 }
-
 #header_image{
 
 	min-height:126px;
@@ -45,8 +40,6 @@ body{
 	background: url(../images/header.jpg) no-repeat;
 
 }
-
-
 
 #container{
 
