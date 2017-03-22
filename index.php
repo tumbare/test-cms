@@ -21,7 +21,7 @@
 <div id="container" style="min-height: 400px;">
   <div id="main_center">
     <div class="box_with_title" style="background-color: indianred; padding: 20px;">
-    	The intranet has been moved to another link<Br /><Br /><Br />
+    	The intranet has been moved to another link here<Br /><Br /><Br />
         
 	<a href="http://www.namcol.edu.na/intranet/" class="darkgreytext"><strong style="font-size:36px">www.namcol.edu.na/intranet/</strong>        </a><Br /><Br /><Br />
     So see you there, all your stuff was moved along as well :-)</div>	
